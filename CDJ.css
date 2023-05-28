@@ -1,0 +1,21 @@
+header img{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: 5px solid red;
+}
+.certer{
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style:normal;
+}
+.comtrimer{
+    padding: 0px 50px;
+}
