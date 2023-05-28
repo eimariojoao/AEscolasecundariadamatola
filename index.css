@@ -1,0 +1,41 @@
+body{
+    color:black;
+    background-color :bisque;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    margin: 20px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 20px;
+}
+
+.container{
+    padding: 0px 50px;
+    
+
+}
